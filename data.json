@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "product_name": "Web Performance Service",
+      "price": "100000",
+      "created_at": "2024-09-15T16:21:20.214Z",
+      "id": 2
+    },
+    {
+      "product_name": "Assignment Service",
+      "price": "30000",
+      "created_at": "2024-09-15T14:50:23.240Z",
+      "id": 5
+    },
+    {
+      "product_name": "Test",
+      "price": "1234",
+      "created_at": "2024-09-17T13:38:40.315Z",
+      "id": 6
+    }
+  ]
+}
